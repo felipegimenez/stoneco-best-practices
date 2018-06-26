@@ -24,7 +24,7 @@ Lista de lançamentos principais já realizados e também o que está planejado 
 
 ### Licença
 
-A licença que está relacionada a qualquer código no seu repositório. Isso é essencial e orbigatório. Tome cuidado ao escolher sua licença. Além disso, é uma boa prática fazer referência à sua licença em todo arquivo de código no seu repositório.
+A licença que está relacionada a qualquer código no seu repositório. Isso é essencial e obrigatório. Tome cuidado ao escolher sua licença. Além disso, é uma boa prática fazer referência à sua licença em todo arquivo de código no seu repositório.
 
 ### Créditos
 
